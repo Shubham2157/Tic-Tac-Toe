@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Contactme/static/css/main.79d71633.chunk.css",
+    "main.js": "/Contactme/static/js/main.b57fe438.chunk.js",
+    "main.js.map": "/Contactme/static/js/main.b57fe438.chunk.js.map",
+    "runtime-main.js": "/Contactme/static/js/runtime-main.36ad7e13.js",
+    "runtime-main.js.map": "/Contactme/static/js/runtime-main.36ad7e13.js.map",
+    "static/js/2.33ef16d9.chunk.js": "/Contactme/static/js/2.33ef16d9.chunk.js",
+    "static/js/2.33ef16d9.chunk.js.map": "/Contactme/static/js/2.33ef16d9.chunk.js.map",
+    "index.html": "/Contactme/index.html",
+    "precache-manifest.53d4120102aca5ca95d5ba2fe5c664c0.js": "/Contactme/precache-manifest.53d4120102aca5ca95d5ba2fe5c664c0.js",
+    "service-worker.js": "/Contactme/service-worker.js",
+    "static/css/main.79d71633.chunk.css.map": "/Contactme/static/css/main.79d71633.chunk.css.map",
+    "static/js/2.33ef16d9.chunk.js.LICENSE.txt": "/Contactme/static/js/2.33ef16d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36ad7e13.js",
+    "static/js/2.33ef16d9.chunk.js",
+    "static/css/main.79d71633.chunk.css",
+    "static/js/main.b57fe438.chunk.js"
+  ]
+}
